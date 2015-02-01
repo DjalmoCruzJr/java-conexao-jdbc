@@ -1,7 +1,7 @@
 <h1>Tutorial Conexão com Banco de Dados em Java e JDBC</h1>
-<h3>Exemplo de conecão com banco de dados em java + JDBC.</h3>
+<h3>Exemplo de conexão com banco de dados em java + JDBC.</h3>
 <h1>Descrição</h1>
-<p>Exemplo de conecão com banco de dados em java + JDBC.</p>
+<p>Exemplo de conexão com banco de dados em java + JDBC.</p>
 <h1>Tecnologias Utilizadas</h1>
 <ul>
 <li>Java 1.8 e JDBC;</li>
