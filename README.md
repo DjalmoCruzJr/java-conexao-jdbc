@@ -9,6 +9,7 @@
 <li>Eclipse Luna (IDE);</li>
 <li>MySQL Worckbench 6.0;</li>
 </ul>
+<p>Veja o tutorial no youtube: <a href="https://www.youtube.com/watch?v=aC2Ox9zyQG8">CLIQUE AQUI!</a></p>
 <h1>Dúvidas, sugestões, críticas, elogíos, etc...</h1>
 <p>Favor, entrar em contato através das informações abaixo:</p>
 <ul>
