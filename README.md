@@ -10,9 +10,8 @@
 <li>MySQL Worckbench 6.0;</li>
 </ul>
 <br />
-<video width="800" height="600">
-  <source src="https://www.youtube.com/watch?v=aC2Ox9zyQG8" type="video/mp4">
-</video>
+<h1>Assita o Video Tutorial Abaixo</h1>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aC2Ox9zyQG8" frameborder="0" allowfullscreen></iframe>
 <br />
 <h1>Dúvidas, sugestões, críticas, elogíos, etc...</h1>
 <p>Favor, entrar em contato através das informações abaixo:</p>
